@@ -14,4 +14,6 @@ function findMostOccurringAlphabet(str) {
   );
 }
 
-findMostOccurringAlphabet("afjghweqweaaadfraaaasdenas");
+const output = findMostOccurringAlphabet("afjghweqweaaadfraaaasdenas");
+
+console.log("Output: ", output);
